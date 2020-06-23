@@ -21,12 +21,7 @@
 
 
     <footer>
-<<<<<<< HEAD
-        by Noval Habibi @2020 
-        
-=======
         by Noval Habibi @2020
->>>>>>> upstream/master
     </footer>
     
     <!-- Optional JavaScript -->
