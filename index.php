@@ -21,7 +21,7 @@
 
 
     <footer>
-        by Noval Habibi @2020
+        by Noval Habibi @2020 🎉 ✅
     </footer>
     
     <!-- Optional JavaScript -->
